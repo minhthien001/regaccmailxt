@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+requests
+pycryptodome 
+browserforge
+gspread 
+oauth2client
