@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+requests
+PyCryptoDome # ho?c pycryptodome (c?n thi?t cho mã hóa RSA)
+# Thêm các thu vi?n khác mà tool reg acc c?a b?n s? d?ng (ví d?: selenium, lxml, ...)
+# D?a trên code c?a b?n, có th? c?n:
+gspread # n?u key_manager dùng gspread
+oauth2client # n?u key_manager dùng oauth2client
